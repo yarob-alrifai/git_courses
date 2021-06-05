@@ -1,2 +1,3 @@
 # git_courses
-##project notes
+you should
+## project notes
